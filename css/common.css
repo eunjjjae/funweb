@@ -34,7 +34,7 @@ body { min-width: 1200px; position: relative; font-family: segoe, sans-serif; }
 
 #footerWrap { border-top: 1px solid #a0a0a0; }
 #footer { display: flex; justify-content: space-between;
-          margin: 0 auto; padding: 23px 80px 30px 200px; box-sizing: border-box; background: url(../images/logoFooter.png) no-repeat 54px 24px; }
+          margin: 0 auto; padding: 23px 80px 30px 200px; box-sizing: border-box; background: url(../images/logofooter.png) no-repeat 54px 24px; }
 #footer .sns { display: flex; }
 #footer .sns li { width: 33px; margin-left: 17px; }
 #footer .sns li a { display: block; height: 33px; text-indent: -9999px; background: url(../images/bgSns.png) no-repeat; }
